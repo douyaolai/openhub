@@ -53,6 +53,7 @@
 
 | 日期 | 标题 | 类型 | 一句话摘要 | 来源 |
 |---|---|---|---|---|
+| 2026-11-19 | [英语语法笔记](./其他/2026-11-19_英语语法笔记.md) | 网址 | INet 社区的中文语法笔记：语法是理解句子的工具而非背诵对象，配套 VuePress 在线站 | [原链接](https://github.com/hzpt-inet-club/english-note) |
 | 2026-11-19 | [解谜英语语法](./其他/2026-11-19_解谜英语语法.md) | 网址 | 把语法还原成动词模板与参数：句子是核心、动词是核心，宾补之类术语可以扔掉 | [原链接](https://yinwang.org/posts/grammar) |
 | 2026-11-19 | [HowToLiveBetter](./其他/2026-11-19_HowToLiveBetter.md) | 网址 | 高性价比人生指南：772 条建议，每条写明成本、收益、证据等级与原始出处，只引期刊论文和官方文件。 | [原链接](https://github.com/eternity4719/HowToLiveBetter) |
 | 2026-11-19 | [chinalaw-cli](./其他/2026-11-19_chinalaw-cli.md) | 网址 | 面向 AI Agent 的中国法规检索工具：按条返回法律、行政法规与司法解释，附带效力状态、施行日期与官方来源。 | [原链接](https://github.com/nh59yytyd5-dev/chinalaw-cli) |
