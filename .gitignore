@@ -1,0 +1,10 @@
+# 归档工具目录，不参与同步
+tools/
+
+# 系统与编辑器杂项
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+.idea/
+.vscode/
