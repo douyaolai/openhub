@@ -6,6 +6,7 @@
 
 | 日期 | 标题 | 类型 | 一句话摘要 | 来源 |
 |---|---|---|---|---|
+| 2026-11-19 | [DSH插件市场](./AI与技术/2026-11-19_DSH插件市场.md) | 网址 | DeepSeek Harness 社区插件索引站：1294 个插件按 11 类归档，提供可直接接入 DSH 的 index.json | [原链接](https://dshopen.org/zh/) |
 | 2026-11-19 | [Claude防封号与订阅指南](./AI与技术/2026-11-19_Claude防封号与订阅指南.md) | 网址 | 从防封号到办新加坡卡再到订阅的完整链路：核心是订阅国、网络出口、账单地址、发卡地四者同国 | [原链接](https://x.com/MinLiBuilds/article/2094017117096161331) |
 | 2026-11-19 | [onetake](./AI与技术/2026-11-19_onetake.md) | 网址 | 一镜到底的动效片 skill：每个画面都从上一个画面长出来，用 oracle 量化连贯性，专做产品发布片与功能演示。 | [原链接](https://github.com/feitangyuan/onetake) |
 | 2026-11-19 | [主题转解说视频](./AI与技术/2026-11-19_主题转解说视频.md) | 网址 | 给个主题就出解说视频：黑底动效、TTS 配音、字幕、章节进度条，每一帧都用 Remotion 代码画出来。 | [原链接](https://github.com/Vincentwei1021/anything2explainer) |
