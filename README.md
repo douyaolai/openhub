@@ -6,6 +6,7 @@
 
 | 日期 | 标题 | 类型 | 一句话摘要 | 来源 |
 |---|---|---|---|---|
+| 2026-11-19 | [Comfyit搅拌站](./AI与技术/2026-11-19_Comfyit搅拌站.md) | 网址 | 中文 ComfyUI 一站式工具站：收录逾万个插件页面，配启动器、整合包与教程入口 | [原链接](https://comfyit.cn/) |
 | 2026-11-19 | [DSH插件市场](./AI与技术/2026-11-19_DSH插件市场.md) | 网址 | DeepSeek Harness 社区插件索引站：1294 个插件按 11 类归档，提供可直接接入 DSH 的 index.json | [原链接](https://dshopen.org/zh/) |
 | 2026-11-19 | [Claude防封号与订阅指南](./AI与技术/2026-11-19_Claude防封号与订阅指南.md) | 网址 | 从防封号到办新加坡卡再到订阅的完整链路：核心是订阅国、网络出口、账单地址、发卡地四者同国 | [原链接](https://x.com/MinLiBuilds/article/2094017117096161331) |
 | 2026-11-19 | [onetake](./AI与技术/2026-11-19_onetake.md) | 网址 | 一镜到底的动效片 skill：每个画面都从上一个画面长出来，用 oracle 量化连贯性，专做产品发布片与功能演示。 | [原链接](https://github.com/feitangyuan/onetake) |
@@ -34,6 +35,7 @@
 
 | 日期 | 标题 | 类型 | 一句话摘要 | 来源 |
 |---|---|---|---|---|
+| 2026-11-19 | [Headscale自建组网](./开发与运维/2026-11-19_Headscale自建组网.md) | 网址 | 用 Docker + Nginx 自建 Headscale 控制服务器，把 Tailscale 的控制面换到自己手里的完整实操记录 | [原链接](https://www.dhao2001.com/2025/01/11/headscale-self-hosted-quick-start/) |
 | 2026-11-19 | [Win2022OVF模板](./开发与运维/2026-11-19_Win2022OVF模板.md) | 网址 | 第三方整理的 Windows Server 2022 OVF 模板：预配远程桌面与常用工具，导入 VMware 后自动 sysprep | [原链接](https://sysin.org/blog/windows-server-2022-ovf/) |
 | 2026-11-19 | [codeg](./开发与运维/2026-11-19_codeg.md) | 网址 | 多 agent 编程工作台：把 Claude Code、Codex、OpenCode、Grok Build 等二十个 agent 聚到一个界面，还能互相委派。 | [原链接](https://github.com/spacering-net/codeg) |
 | 2026-11-19 | [wechatbot](./开发与运维/2026-11-19_wechatbot.md) | 网址 | 微信 iLink Bot SDK：Node/Python/Go/Rust 四语言，扫码登录后几分钟就能让 Agent 收发微信消息。 | [原链接](https://github.com/corespeed-io/wechatbot) |
