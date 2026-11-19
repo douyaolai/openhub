@@ -34,6 +34,7 @@
 
 | 日期 | 标题 | 类型 | 一句话摘要 | 来源 |
 |---|---|---|---|---|
+| 2026-11-19 | [Win2022OVF模板](./开发与运维/2026-11-19_Win2022OVF模板.md) | 网址 | 第三方整理的 Windows Server 2022 OVF 模板：预配远程桌面与常用工具，导入 VMware 后自动 sysprep | [原链接](https://sysin.org/blog/windows-server-2022-ovf/) |
 | 2026-11-19 | [codeg](./开发与运维/2026-11-19_codeg.md) | 网址 | 多 agent 编程工作台：把 Claude Code、Codex、OpenCode、Grok Build 等二十个 agent 聚到一个界面，还能互相委派。 | [原链接](https://github.com/spacering-net/codeg) |
 | 2026-11-19 | [wechatbot](./开发与运维/2026-11-19_wechatbot.md) | 网址 | 微信 iLink Bot SDK：Node/Python/Go/Rust 四语言，扫码登录后几分钟就能让 Agent 收发微信消息。 | [原链接](https://github.com/corespeed-io/wechatbot) |
 | 2026-11-19 | [Moect](./开发与运维/2026-11-19_Moect.md) | 网址 | Windows 微信 4.x 聊天记录导出与离线归档：好友/群聊、朋友圈、表情与文件一并留存，导出 HTML 可离线搜索。 | [原链接](https://github.com/mofan6/Moect) |
