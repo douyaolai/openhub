@@ -25,6 +25,14 @@
 | 2026-11-19 | [Pixelle-Video](./AI与技术/2026-11-19_Pixelle-Video.md) | 网址 | 给一个主题就自动出成片：写文案、配图、配音、加 BGM、合成一气呵成，底层是 ComfyUI 工作流，30k Star。 | [原链接](https://github.com/ATH-MaaS/Pixelle-Video) |
 | 2026-11-19 | [DeepTutor学习导师](./AI与技术/2026-11-19_DeepTutor学习导师.md) | 网址 | HKUDS 开源的 agent 原生学习工作台：多模式教学 + 多引擎 RAG + 可审计记忆，CLI 可被其他 agent 调用 | [原链接](https://github.com/HKUDS/DeepTutor) |
 
+## AI教育
+
+| 日期 | 标题 | 类型 | 一句话摘要 | 来源 |
+|---|---|---|---|---|
+| 2026-11-20 | [儿童英语学习伙伴](./AI教育/2026-11-20_儿童英语学习伙伴.md) | 网址 | 离线优先的儿童英语 PWA：90 篇分级课程、1074 条离线词典与 25MB 预生成音频，多孩各记进度 | [原链接](https://github.com/xckevin/magic-english-buddy) |
+| 2026-11-19 | [英语语法笔记](./AI教育/2026-11-19_英语语法笔记.md) | 网址 | INet 社区的中文语法笔记：语法是理解句子的工具而非背诵对象，配套 VuePress 在线站 | [原链接](https://github.com/hzpt-inet-club/english-note) |
+| 2026-11-19 | [解谜英语语法](./AI教育/2026-11-19_解谜英语语法.md) | 网址 | 把语法还原成动词模板与参数：句子是核心、动词是核心，宾补之类术语可以扔掉 | [原链接](https://yinwang.org/posts/grammar) |
+
 ## 产品与商业
 
 | 日期 | 标题 | 类型 | 一句话摘要 | 来源 |
@@ -61,9 +69,6 @@
 
 | 日期 | 标题 | 类型 | 一句话摘要 | 来源 |
 |---|---|---|---|---|
-| 2026-11-20 | [儿童英语学习伙伴](./其他/2026-11-20_儿童英语学习伙伴.md) | 网址 | 离线优先的儿童英语 PWA：90 篇分级课程、1074 条离线词典与 25MB 预生成音频，多孩各记进度 | [原链接](https://github.com/xckevin/magic-english-buddy) |
-| 2026-11-19 | [英语语法笔记](./其他/2026-11-19_英语语法笔记.md) | 网址 | INet 社区的中文语法笔记：语法是理解句子的工具而非背诵对象，配套 VuePress 在线站 | [原链接](https://github.com/hzpt-inet-club/english-note) |
-| 2026-11-19 | [解谜英语语法](./其他/2026-11-19_解谜英语语法.md) | 网址 | 把语法还原成动词模板与参数：句子是核心、动词是核心，宾补之类术语可以扔掉 | [原链接](https://yinwang.org/posts/grammar) |
 | 2026-11-19 | [HowToLiveBetter](./其他/2026-11-19_HowToLiveBetter.md) | 网址 | 高性价比人生指南：772 条建议，每条写明成本、收益、证据等级与原始出处，只引期刊论文和官方文件。 | [原链接](https://github.com/eternity4719/HowToLiveBetter) |
 | 2026-11-19 | [chinalaw-cli](./其他/2026-11-19_chinalaw-cli.md) | 网址 | 面向 AI Agent 的中国法规检索工具：按条返回法律、行政法规与司法解释，附带效力状态、施行日期与官方来源。 | [原链接](https://github.com/nh59yytyd5-dev/chinalaw-cli) |
 | 2026-11-19 | [开源游戏清单](./其他/2026-11-19_开源游戏清单.md) | 网址 | 按类型罗列的开源游戏清单：动作、冒险、经营、城建、FPS、解谜、Roguelike 等十余类，每条附源码仓库。 | [原链接](https://github.com/bobeff/open-source-games) |
