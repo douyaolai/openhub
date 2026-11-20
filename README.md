@@ -29,6 +29,7 @@
 
 | 日期 | 标题 | 类型 | 一句话摘要 | 来源 |
 |---|---|---|---|---|
+| 2026-11-20 | [WordLink词汇图谱](./AI教育/2026-11-20_WordLink词汇图谱.md) | 网址 | 用 32.6 万条带类型词链画词关系图的英语词汇工作台，附 Qwen2.5-1.5B 的 SFT+DPO 微调与基准 | [原链接](https://github.com/orionsheep/wordlink) |
 | 2026-11-20 | [儿童英语动画短片](./AI教育/2026-11-20_儿童英语动画短片.md) | 网址 | Claude Code skill：输入句型与画风即产出两分半的儿童英语动画，台词卡拍、口型随音、留拍等孩子开口 | [原链接](https://github.com/lwmxiaobei/xiaobei-skills/tree/main/kids-english-video) |
 | 2026-11-20 | [儿童英语学习伙伴](./AI教育/2026-11-20_儿童英语学习伙伴.md) | 网址 | 离线优先的儿童英语 PWA：90 篇分级课程、1074 条离线词典与 25MB 预生成音频，多孩各记进度 | [原链接](https://github.com/xckevin/magic-english-buddy) |
 | 2026-11-19 | [英语语法笔记](./AI教育/2026-11-19_英语语法笔记.md) | 网址 | INet 社区的中文语法笔记：语法是理解句子的工具而非背诵对象，配套 VuePress 在线站 | [原链接](https://github.com/hzpt-inet-club/english-note) |
