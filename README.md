@@ -39,6 +39,11 @@
 
 | 日期 | 标题 | 类型 | 一句话摘要 | 来源 |
 |---|---|---|---|---|
+| 2026-11-25 | [AI剪辑投递skill](./产品与商业/2026-11-25_AI剪辑投递skill.md) | 网址 | 面向剪辑悬赏的技能：按 brief 切竖屏片段、发布前逐条自检，附 30 分钟提交表与凭证 | [原链接](https://github.com/social-media-skills/ai-clipping-skill) |
+| 2026-11-25 | [自动字幕skill](./产品与商业/2026-11-25_自动字幕skill.md) | 网址 | 本地跑的视频自动字幕技能：转写校对、烧字幕、出 SRT/VTT、多语翻译与批准后发布 | [原链接](https://github.com/social-media-skills/auto-captions-skill) |
+| 2026-11-25 | [Instagram技能包](./产品与商业/2026-11-25_Instagram技能包.md) | 网址 | 9 个 Instagram 营销技能：文案、钩子、标签策略与整周规划，草稿去 AI 味后才发布 | [原链接](https://github.com/sergebulaev/instagram-skills) |
+| 2026-11-25 | [社媒技能合集](./产品与商业/2026-11-25_社媒技能合集.md) | 网址 | 给 AI agent 的 106 个社媒技能：策略、写作、视频、设计、增长与复盘整条流水线 | [原链接](https://github.com/social-media-skills/skills) |
+| 2026-11-25 | [motionforge](./产品与商业/2026-11-25_motionforge.md) | 网址 | 给 coding agent 用的开源动效工具包：一句描述就自动写脚本、卡配音、搭 2D/3D 场景并自检 | [原链接](https://github.com/aykutucesai/motionforge) |
 | 2026-11-25 | [信息变选题](./产品与商业/2026-11-25_信息变选题.md) | 文字 | 自媒体核心能力是把接收的信息转成自己的观点，转化链条打通后选题不再枯竭 | — |
 | 2026-11-24 | [身后的小生意](./产品与商业/2026-11-24_身后的小生意.md) | 文字 | 买方只为少雇人少出错省钱买单，需求藏在没人弯腰做的粗糙小生意里；工具不稀缺，替人解决麻烦才稀缺 | — |
 | 2026-11-19 | [dsh-media-desk](./产品与商业/2026-11-19_dsh-media-desk.md) | 网址 | DSH 自媒体工作台插件：一句灵感，一键生成口播脚本、标题、封面、配图与六格分镜，还能排期和复盘。 | [原链接](https://github.com/woniuniuniu/dsh-media-desk) |
@@ -49,6 +54,8 @@
 
 | 日期 | 标题 | 类型 | 一句话摘要 | 来源 |
 |---|---|---|---|---|
+| 2026-11-25 | [Firecrawl](./开发与运维/2026-11-25_Firecrawl.md) | 网址 | agent 的知识基础设施：同一套代码可本机单文件跑、可自托管全套、可用云端 550+ 数据源 | [原链接](https://github.com/firecrawl/firecrawl) |
+| 2026-11-25 | [crawl4ai](./开发与运维/2026-11-25_crawl4ai.md) | 网址 | 给 agent 用的开源爬虫：网页转干净 Markdown 喂 RAG 或抽结构化 JSON，可云端可自托管 | [原链接](https://github.com/unclecode/crawl4ai) |
 | 2026-11-19 | [Headscale自建组网](./开发与运维/2026-11-19_Headscale自建组网.md) | 网址 | 用 Docker + Nginx 自建 Headscale 控制服务器，把 Tailscale 的控制面换到自己手里的完整实操记录 | [原链接](https://www.dhao2001.com/2025/01/11/headscale-self-hosted-quick-start/) |
 | 2026-11-19 | [Win2022OVF模板](./开发与运维/2026-11-19_Win2022OVF模板.md) | 网址 | 第三方整理的 Windows Server 2022 OVF 模板：预配远程桌面与常用工具，导入 VMware 后自动 sysprep | [原链接](https://sysin.org/blog/windows-server-2022-ovf/) |
 | 2026-11-19 | [codeg](./开发与运维/2026-11-19_codeg.md) | 网址 | 多 agent 编程工作台：把 Claude Code、Codex、OpenCode、Grok Build 等二十个 agent 聚到一个界面，还能互相委派。 | [原链接](https://github.com/spacering-net/codeg) |
@@ -64,6 +71,7 @@
 
 | 日期 | 标题 | 类型 | 一句话摘要 | 来源 |
 |---|---|---|---|---|
+| 2026-11-25 | [OpenTrading](./Web3与金融/2026-11-25_OpenTrading.md) | 网址 | 自托管看盘与策略模拟工具：多图行情、Pine 回测、DCA 模拟与美元流动性看板 | [原链接](https://github.com/CheshireMew/OpenTrading) |
 | 2026-11-25 | [NEXON白皮书](./Web3与金融/2026-11-25_NEXON白皮书.md) | 网址 | 双代币质押项目白皮书：日化 0.4%-1.2%、20 代返佣、代币只卖不买，机制透明但高风险特征明显 | [原链接](https://nexon-3.gitbook.io/nexon-docs/zh/one-page) |
 | 2026-11-24 | [ANE收款网关](./Web3与金融/2026-11-24_ANE收款网关.md) | 网址 | 用安卓机监听收款通知做易支付回调的自托管网关，不经手资金、不调官方支付 API | [原链接](https://github.com/EnderWolf006/ANE) |
 | 2026-11-19 | [加密资产追踪手册](./Web3与金融/2026-11-19_加密资产追踪手册.md) | 网址 | 慢雾开源的链上追踪入门手册：公链模型、七种资金流动模式、被盗处置顺序与四个实战案例 | [原链接](https://github.com/slowmist/Crypto-Asset-Tracing-Handbook) |
