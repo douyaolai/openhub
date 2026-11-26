@@ -6,6 +6,7 @@
 
 | 日期 | 标题 | 类型 | 一句话摘要 | 来源 |
 |---|---|---|---|---|
+| 2026-11-26 | [AI换装视频复刻](./AI与技术/2026-11-26_AI换装视频复刻.md) | 图片 | agent 会话截图：抖音视频自动下载后，用 codex 绘图 + H3 视频 + TTS 克隆 + lyria 音乐 + 超分复刻同款换装片 | — |
 | 2026-11-19 | [ClaudeCode固定节点](./AI与技术/2026-11-19_ClaudeCode固定节点.md) | 文字 | 给本机 Agent 的执行型 Prompt：macOS 上为 Claude Code 建独立固定出口代理，并用 settings.json 与 zsh 双层绑定堵住首包漏 IP | — |
 | 2026-11-19 | [RunningHub](./AI与技术/2026-11-19_RunningHub.md) | 网址 | 云端跑 ComfyUI 工作流的商业化 AIGC 平台：一键出图出视频，并把同套能力包成模型与工作流 API | [原链接](https://www.runninghub.cn/) |
 | 2026-11-19 | [Comfyit搅拌站](./AI与技术/2026-11-19_Comfyit搅拌站.md) | 网址 | 中文 ComfyUI 一站式工具站：收录逾万个插件页面，配启动器、整合包与教程入口 | [原链接](https://comfyit.cn/) |
