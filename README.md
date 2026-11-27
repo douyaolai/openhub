@@ -30,6 +30,7 @@
 
 | 日期 | 标题 | 类型 | 一句话摘要 | 来源 |
 |---|---|---|---|---|
+| 2026-11-27 | [间隔重复学习法](./AI教育/2026-11-27_间隔重复学习法.md) | 文件 | 家长把遗忘曲线+间隔重复+莱特纳盒子做成 64 天 20 分钟实体卡片法，含原子化/记日期/注来源三条纪律 | [原链接](https://x.com/jexchan/status/2125819130725163084) |
 | 2026-11-27 | [OpenLingo](./AI教育/2026-11-27_OpenLingo.md) | 网址 | 开源 AI 语言学习平台：对话家教能改记忆与 SRS 卡片，一句话生成整个学习单元，支持 15+ 语言 | [原链接](https://github.com/pretzelai/openlingo) |
 | 2026-11-27 | [StoryCraft](./AI教育/2026-11-27_StoryCraft.md) | 网址 | 面向 3-5 岁的 AI 绘本生成器：故事+逐页插图、中英双语、8 种画风、导出 Kindle 友好 PDF | [原链接](https://github.com/cn-vhql/StoryCraft) |
 | 2026-11-27 | [Math-To-Manim](./AI教育/2026-11-27_Math-To-Manim.md) | 网址 | 文本/图片转数学物理动画与学习笔记，每部片子配论文、Manim 源码与 Lean 形式化证明 | [原链接](https://github.com/HarleyCoops/Math-To-Manim) |
