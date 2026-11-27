@@ -30,6 +30,10 @@
 
 | 日期 | 标题 | 类型 | 一句话摘要 | 来源 |
 |---|---|---|---|---|
+| 2026-11-27 | [OpenLingo](./AI教育/2026-11-27_OpenLingo.md) | 网址 | 开源 AI 语言学习平台：对话家教能改记忆与 SRS 卡片，一句话生成整个学习单元，支持 15+ 语言 | [原链接](https://github.com/pretzelai/openlingo) |
+| 2026-11-27 | [StoryCraft](./AI教育/2026-11-27_StoryCraft.md) | 网址 | 面向 3-5 岁的 AI 绘本生成器：故事+逐页插图、中英双语、8 种画风、导出 Kindle 友好 PDF | [原链接](https://github.com/cn-vhql/StoryCraft) |
+| 2026-11-27 | [Math-To-Manim](./AI教育/2026-11-27_Math-To-Manim.md) | 网址 | 文本/图片转数学物理动画与学习笔记，每部片子配论文、Manim 源码与 Lean 形式化证明 | [原链接](https://github.com/HarleyCoops/Math-To-Manim) |
+| 2026-11-27 | [VisualLearning](./AI教育/2026-11-27_VisualLearning.md) | 网址 | 教 agent 把主题做成可交互动画讲解的 skill：事实逐条对源，出稿前有独立审稿 subagent | [原链接](https://github.com/andrewalumkal/VisualLearning.Skill) |
 | 2026-11-25 | [AI儿童绘本小程序](./AI教育/2026-11-25_AI儿童绘本小程序.md) | 文字 | 产品构思：上传孩子头像生成专属绘本、可印实体书、订阅每月更新，关键在角色一致性与儿童肖像合规 | — |
 | 2026-11-20 | [WordLink词汇图谱](./AI教育/2026-11-20_WordLink词汇图谱.md) | 网址 | 用 32.6 万条带类型词链画词关系图的英语词汇工作台，附 Qwen2.5-1.5B 的 SFT+DPO 微调与基准 | [原链接](https://github.com/orionsheep/wordlink) |
 | 2026-11-20 | [儿童英语动画短片](./AI教育/2026-11-20_儿童英语动画短片.md) | 网址 | Claude Code skill：输入句型与画风即产出两分半的儿童英语动画，台词卡拍、口型随音、留拍等孩子开口 | [原链接](https://github.com/lwmxiaobei/xiaobei-skills/tree/main/kids-english-video) |
