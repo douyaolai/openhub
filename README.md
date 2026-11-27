@@ -46,6 +46,7 @@
 
 | 日期 | 标题 | 类型 | 一句话摘要 | 来源 |
 |---|---|---|---|---|
+| 2026-11-27 | [跟字节找饭吃](./产品与商业/2026-11-27_跟字节找饭吃.md) | 文字 | 跟资本开支找机会：盯巨头补贴什么、扶持什么、缺什么，提前摆摊；作者选中字节，因它做普通人能吃到的生意 | — |
 | 2026-11-25 | [AI剪辑投递skill](./产品与商业/2026-11-25_AI剪辑投递skill.md) | 网址 | 面向剪辑悬赏的技能：按 brief 切竖屏片段、发布前逐条自检，附 30 分钟提交表与凭证 | [原链接](https://github.com/social-media-skills/ai-clipping-skill) |
 | 2026-11-25 | [自动字幕skill](./产品与商业/2026-11-25_自动字幕skill.md) | 网址 | 本地跑的视频自动字幕技能：转写校对、烧字幕、出 SRT/VTT、多语翻译与批准后发布 | [原链接](https://github.com/social-media-skills/auto-captions-skill) |
 | 2026-11-25 | [Instagram技能包](./产品与商业/2026-11-25_Instagram技能包.md) | 网址 | 9 个 Instagram 营销技能：文案、钩子、标签策略与整周规划，草稿去 AI 味后才发布 | [原链接](https://github.com/sergebulaev/instagram-skills) |
