@@ -91,6 +91,7 @@
 
 | 日期 | 标题 | 类型 | 一句话摘要 | 来源 |
 |---|---|---|---|---|
+| 2026-11-27 | [instabox.sh](./其他/2026-11-27_instabox.sh.md) | 网址 | 站点在本机不可达（DNS 正常、443 超时），仅登记链接与诊断记录，内容未知待补 | [原链接](https://instabox.sh/) |
 | 2026-11-20 | [美国3美元电话卡](./其他/2026-11-20_美国3美元电话卡.md) | 文件 | Ultra Mobile PayGo 全流程实操：Wi-Fi Calling 是总开关，2025 封号潮后国内激活须用美国 IP | [原链接](https://x.com/noahduck283/article/2064147050816831758) |
 | 2026-11-19 | [HowToLiveBetter](./其他/2026-11-19_HowToLiveBetter.md) | 网址 | 高性价比人生指南：772 条建议，每条写明成本、收益、证据等级与原始出处，只引期刊论文和官方文件。 | [原链接](https://github.com/eternity4719/HowToLiveBetter) |
 | 2026-11-19 | [chinalaw-cli](./其他/2026-11-19_chinalaw-cli.md) | 网址 | 面向 AI Agent 的中国法规检索工具：按条返回法律、行政法规与司法解释，附带效力状态、施行日期与官方来源。 | [原链接](https://github.com/nh59yytyd5-dev/chinalaw-cli) |
