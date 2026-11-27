@@ -63,6 +63,7 @@
 
 | 日期 | 标题 | 类型 | 一句话摘要 | 来源 |
 |---|---|---|---|---|
+| 2026-11-27 | [省钱兄开源项目](./开发与运维/2026-11-27_省钱兄开源项目.md) | 网址 | 西安省钱兄科技的开源项目目录：外卖、拓客、商城、企微 SCRM、运维面板与 UniApp 模板，主打可二开交付 | [原链接](https://opensource.xiansqx.cn) |
 | 2026-11-25 | [Firecrawl](./开发与运维/2026-11-25_Firecrawl.md) | 网址 | agent 的知识基础设施：同一套代码可本机单文件跑、可自托管全套、可用云端 550+ 数据源 | [原链接](https://github.com/firecrawl/firecrawl) |
 | 2026-11-25 | [crawl4ai](./开发与运维/2026-11-25_crawl4ai.md) | 网址 | 给 agent 用的开源爬虫：网页转干净 Markdown 喂 RAG 或抽结构化 JSON，可云端可自托管 | [原链接](https://github.com/unclecode/crawl4ai) |
 | 2026-11-19 | [Headscale自建组网](./开发与运维/2026-11-19_Headscale自建组网.md) | 网址 | 用 Docker + Nginx 自建 Headscale 控制服务器，把 Tailscale 的控制面换到自己手里的完整实操记录 | [原链接](https://www.dhao2001.com/2025/01/11/headscale-self-hosted-quick-start/) |
